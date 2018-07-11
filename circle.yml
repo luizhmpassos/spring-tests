@@ -12,7 +12,7 @@ deployment:
   staging:
     branch: master
     heroku:
-      appname: staging-spring-tests
+      appname: luizhmp-staging-spring-tests
 
 general:
   artifacts:
